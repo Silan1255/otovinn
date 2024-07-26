@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">OtovinnCase</string>
+
+    <!-- Hint -->
+    <string name="hint_user_name">Kulanıcı adınızı yazınız</string>
+    <string name="hint_password">Şifre yazınız</string>
+    <string name="hint_search">Arama yap</string>
+
+    <!--Auth -->
+    <string name="login">Giriş Yap</string>
+
+    <!-- Wrong -->
+    <string name="wrong_empty_username">Kullanıcı adınız zorunludur</string>
+    <string name="wrong_password_has_spaces">Şifreniz boşluk içermemelidir</string>
+    <string name="wrong_empty_password">Şifre alanı zorunludur</string>
+    <string name="wrong_short_password">Belirleyeceğiniz şifre en az 6 haneli olmalıdır.</string>
+    <string name="wrong_login">Kullanıcı adınız  yada şifreniz hatalıdır</string>
+    <string name="wrong_voice">Ses algılanmadı</string>
+    <string name="wrong_permission_denied">İzin Reddedildi</string>
+
+    <!-- Success message -->
+    <string name="success_login">Giriş Başarılı</string>
+
+    <!--Title -->
+    <string name="title_application">Otovınn</string>
+    <string name="title_near_me">Yakınımdakiler</string>
+    <string name="title_last_services_received">Son Alınan Hizmetler</string>
+    <string name="title_best_week">Haftanın En\'leri</string>
+    <string name="title_campaigns">Kampanyalar</string>
+
+    <!--Main -->
+    <string name="take_appointment">Randevu Al</string>
+    <string name="add_favorite">Favorilere Ekle</string>
+    <string name="txt_see_all"><u>tümünü gör</u></string>
+
+</resources>
